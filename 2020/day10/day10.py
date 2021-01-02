@@ -41,5 +41,5 @@ numbers = sorted(numbers)
 numbers.append(numbers[-1] + 3)
 
 
-print(f'Day9 Part1 Answer: {part1(list(numbers))}')
-print(f'Day9 Part2 Answer: {part2(numbers)}')
+print(f'Day10 Part1 Answer: {part1(numbers)}')
+print(f'Day10 Part2 Answer: {part2(numbers)}')
